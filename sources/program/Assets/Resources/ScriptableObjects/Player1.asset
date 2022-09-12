@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b79fe649339ac5d4c897914661d68869, type: 3}
+  m_Name: Player1
+  m_EditorClassIdentifier: 
+  CharacterName: Doom
+  Health: 3
+  MovementSpeed: 15
+  _animatior: {fileID: 9100000, guid: 532b8c7eb67bbe44f81b3f1c366cf369, type: 2}
+  sprite: {fileID: 1811782876, guid: e96f49cb7c62c004cacfbf5604ee7d2c, type: 3}
